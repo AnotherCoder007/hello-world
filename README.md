@@ -1,2 +1,2 @@
 # hello-world
-Sample repository
+This is another codes editing the branch to learn
